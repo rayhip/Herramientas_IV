@@ -16,6 +16,8 @@ public class Herramientas4GitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int x=4;
+        int y=2;
     }
     
 }
